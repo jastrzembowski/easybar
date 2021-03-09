@@ -1,0 +1,1 @@
+# easybar
